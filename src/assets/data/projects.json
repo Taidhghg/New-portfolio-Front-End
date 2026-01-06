@@ -1,0 +1,32 @@
+[
+    {
+        "slug": "doctors-website",
+        "title": "Doctor Portal",
+        "description": "A React-based doctors dashboard and appointment management system built as part of coursework. Features patient lists, quick-create, appointments, and admin CRUD operations.",
+        "screenshots": [
+            {
+                "url": "/images/image.png",
+                "caption": "Doctor Portal - patients list"
+            }
+        ],
+        "url": "https://example.com/doctor-portal",
+        "github": "https://github.com/Taidhghg/CA2-Front-end.git",
+        "date": "2024",
+        "tags": ["React", "TypeScript", "REST API", "UI"]
+    },
+    {
+        "slug": "obstacle-game",
+        "title": "Obstacle Runner (Unreal Engine)",
+        "description": "An obstacle course game developed in Unreal Engine for a game development module — includes level design, character movement, and basic AI obstacles.",
+        "screenshots": [
+            {
+                "url": "/images/checkpoints.png",
+                "caption": "Obstacle Runner - level preview"
+            }
+        ],
+        "url": "",
+        "github": "",
+        "date": "2024",
+        "tags": ["Unreal Engine", "Blueprints", "Level Design"]
+    }
+]
